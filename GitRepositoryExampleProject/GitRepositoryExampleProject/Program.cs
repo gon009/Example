@@ -12,6 +12,7 @@ namespace GitRepositoryExampleProject
         {
             Console.WriteLine("This is my New Repository");
             Console.ReadLine();
+            Console.WriteLine("Testing Extension");
         }
     }
 }
